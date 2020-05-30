@@ -34822,7 +34822,7 @@ t.push(Y.Vt(!1,H.b([new U.b8(r,!1,!0,r,r,r,!1,[s],r,C.m,r,!1,!1,r,C.u)],u.p),"Th
 t.push(new U.m_("",!1,!0,r,r,r,!1,r,C.a8,C.m,"",!0,!1,r,C.bo))
 return!1}return!0}}
 F.tE.prototype={
-L:function(a){return new S.mO(new F.n1("Flutter Demo Home Page",null),"Flutter Demo",X.RE(null,C.kO,X.Xw()),null)}}
+L:function(a){return new S.mO(new F.n1("Flutter Demo Home Page",null),":)",X.RE(null,C.kO,X.Xw()),null)}}
 F.n1.prototype={
 aJ:function(){return new F.yl(C.o)}}
 F.yl.prototype={
